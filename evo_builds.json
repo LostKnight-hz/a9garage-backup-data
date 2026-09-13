@@ -1,0 +1,5714 @@
+{
+  "Italdesign Zerouno": {
+    "name": "Italdesign Zerouno",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 357.6,
+          "acceleration": 79.25,
+          "handling": 49.34,
+          "nitro": 54.1,
+          "weight_kg": 1885,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 3445,
+          "weight_delta": 360
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10",
+          "drivetrain": "Late E-Upgrade",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 341.0,
+          "acceleration": 84.5,
+          "handling": 58.34,
+          "nitro": 54.1,
+          "weight_kg": 1645,
+          "archetype": "Normal",
+          "rank_delta": 200,
+          "final_rank": 3445,
+          "weight_delta": 120
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 341.0,
+          "acceleration": 79.25,
+          "handling": 67.34,
+          "nitro": 54.1,
+          "weight_kg": 1405,
+          "archetype": "Light",
+          "rank_delta": 250,
+          "final_rank": 3495,
+          "weight_delta": -120
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Gain Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 341.0,
+          "acceleration": 79.25,
+          "handling": 49.34,
+          "nitro": 73.6,
+          "weight_kg": 1825,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 3395,
+          "weight_delta": 300
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Nextspeed - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Gain Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 3,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 342.8,
+          "acceleration": 80.5,
+          "handling": 67.34,
+          "nitro": 68.85,
+          "weight_kg": 1420,
+          "archetype": "Light",
+          "rank_delta": 650,
+          "final_rank": 3895,
+          "weight_delta": -105
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Cast Iron",
+          "drivetrain": "Late E-Upgrade",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 357.6,
+          "acceleration": 84.5,
+          "handling": 49.34,
+          "nitro": 54.1,
+          "weight_kg": 2005,
+          "archetype": "Heavy",
+          "rank_delta": 400,
+          "final_rank": 3645,
+          "weight_delta": 480
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Nextspeed - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Gain Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 3,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 342.8,
+          "acceleration": 80.5,
+          "handling": 67.34,
+          "nitro": 68.85,
+          "weight_kg": 1420,
+          "archetype": "Light",
+          "rank_delta": 650,
+          "final_rank": 3895,
+          "weight_delta": -105
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Nextspeed - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Gain Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 3,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 342.8,
+          "acceleration": 80.5,
+          "handling": 67.34,
+          "nitro": 68.85,
+          "weight_kg": 1420,
+          "archetype": "Light",
+          "rank_delta": 650,
+          "final_rank": 3895,
+          "weight_delta": -105
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Titanium",
+          "drivetrain": "Late E-Upgrade",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Gain Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 342.8,
+          "acceleration": 84.5,
+          "handling": 58.34,
+          "nitro": 73.6,
+          "weight_kg": 1750,
+          "archetype": "Normal",
+          "rank_delta": 650,
+          "final_rank": 3895,
+          "weight_delta": 225
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Titanium",
+          "drivetrain": "Late E-Upgrade",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Gain Kit",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 350.2,
+          "acceleration": 84.5,
+          "handling": 49.34,
+          "nitro": 73.6,
+          "weight_kg": 2035,
+          "archetype": "Heavy",
+          "rank_delta": 600,
+          "final_rank": 3845,
+          "weight_delta": 510
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Cast Iron",
+          "drivetrain": "Late E-Upgrade",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Gain Kit",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 357.6,
+          "acceleration": 84.5,
+          "handling": 43.84,
+          "nitro": 73.6,
+          "weight_kg": 2305,
+          "archetype": "Overload",
+          "rank_delta": 600,
+          "final_rank": 3845,
+          "weight_delta": 780
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 342.8,
+          "acceleration": 80.5,
+          "handling": 67.34,
+          "nitro": 59.1,
+          "weight_kg": 1150,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 3695,
+          "weight_delta": -375
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "5.2L Naturally Aspirated V10 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 350.2,
+          "acceleration": 80.5,
+          "handling": 67.34,
+          "nitro": 59.1,
+          "weight_kg": 1435,
+          "archetype": "Light",
+          "rank_delta": 650,
+          "final_rank": 3895,
+          "weight_delta": -90
+        }
+      }
+    }
+  },
+  "Lamborghini Murcielago LP 640 Roadster": {
+    "name": "Lamborghini Murcielago LP 640 Roadster",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Street Drag Tires"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 360.5,
+          "acceleration": 77.54,
+          "handling": 47.68,
+          "nitro": 61.13,
+          "weight_kg": 1995,
+          "archetype": "Heavy",
+          "rank_delta": 100,
+          "final_rank": 3892,
+          "weight_delta": 330
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 354.1,
+          "acceleration": 85.29,
+          "handling": 55.18,
+          "nitro": 61.13,
+          "weight_kg": 1920,
+          "archetype": "Heavy",
+          "rank_delta": 75,
+          "final_rank": 3867,
+          "weight_delta": 255
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "Flat-Spin Inertia Flywheel",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 1,
+          "nitroSys": 0,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 354.1,
+          "acceleration": 79.04,
+          "handling": 79.18,
+          "nitro": 65.13,
+          "weight_kg": 1440,
+          "archetype": "Light",
+          "rank_delta": 325,
+          "final_rank": 4117,
+          "weight_delta": -225
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 354.1,
+          "acceleration": 77.54,
+          "handling": 55.18,
+          "nitro": 89.13,
+          "weight_kg": 1980,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 3942,
+          "weight_delta": 315
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 354.7,
+          "acceleration": 79.04,
+          "handling": 67.18,
+          "nitro": 89.13,
+          "weight_kg": 1740,
+          "archetype": "Normal",
+          "rank_delta": 450,
+          "final_rank": 4242,
+          "weight_delta": 75
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 357.3,
+          "acceleration": 85.29,
+          "handling": 55.18,
+          "nitro": 61.13,
+          "weight_kg": 2130,
+          "archetype": "Heavy",
+          "rank_delta": 250,
+          "final_rank": 4042,
+          "weight_delta": 465
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 0,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 354.7,
+          "acceleration": 77.54,
+          "handling": 67.18,
+          "nitro": 89.13,
+          "weight_kg": 1800,
+          "archetype": "Normal",
+          "rank_delta": 400,
+          "final_rank": 4192,
+          "weight_delta": 135
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Midweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 3,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 354.7,
+          "acceleration": 79.04,
+          "handling": 79.18,
+          "nitro": 73.13,
+          "weight_kg": 1425,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 4242,
+          "weight_delta": -240
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 354.7,
+          "acceleration": 79.04,
+          "handling": 67.18,
+          "nitro": 89.13,
+          "weight_kg": 1740,
+          "archetype": "Normal",
+          "rank_delta": 450,
+          "final_rank": 4242,
+          "weight_delta": 75
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 354.7,
+          "acceleration": 85.29,
+          "handling": 55.18,
+          "nitro": 89.13,
+          "weight_kg": 2145,
+          "archetype": "Heavy",
+          "rank_delta": 450,
+          "final_rank": 4242,
+          "weight_delta": 480
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 357.3,
+          "acceleration": 85.29,
+          "handling": 46.18,
+          "nitro": 89.13,
+          "weight_kg": 2445,
+          "archetype": "Overload",
+          "rank_delta": 450,
+          "final_rank": 4242,
+          "weight_delta": 780
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Flat-Spin Inertia Flywheel",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 354.7,
+          "acceleration": 79.04,
+          "handling": 79.18,
+          "nitro": 69.13,
+          "weight_kg": 1320,
+          "archetype": "Light",
+          "rank_delta": 400,
+          "final_rank": 4192,
+          "weight_delta": -345
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Flat-Spin Inertia Flywheel",
+          "specialPack": "Mid Turbo"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 356.0,
+          "acceleration": 79.04,
+          "handling": 79.18,
+          "nitro": 69.13,
+          "weight_kg": 1425,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 4242,
+          "weight_delta": -240
+        }
+      }
+    }
+  },
+  "Ferrari Enzo Ferrari": {
+    "name": "Ferrari Enzo Ferrari",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Street Drag Tires"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 374.7,
+          "acceleration": 75.29,
+          "handling": 57.45,
+          "nitro": 72.26,
+          "weight_kg": 1495,
+          "archetype": "Heavy",
+          "rank_delta": 100,
+          "final_rank": 4109,
+          "weight_delta": 240
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12",
+          "drivetrain": "Cast Iron Late Gearbox",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 364.8,
+          "acceleration": 80.29,
+          "handling": 59.95,
+          "nitro": 72.26,
+          "weight_kg": 1435,
+          "archetype": "Heavy",
+          "rank_delta": 0,
+          "final_rank": 4009,
+          "weight_delta": 180
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12",
+          "drivetrain": "—",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Featherweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 364.8,
+          "acceleration": 75.29,
+          "handling": 69.95,
+          "nitro": 75.26,
+          "weight_kg": 1075,
+          "archetype": "Light",
+          "rank_delta": 300,
+          "final_rank": 4309,
+          "weight_delta": -180
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 5,
+          "nitroGainSys": 6,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 364.8,
+          "acceleration": 75.29,
+          "handling": 59.95,
+          "nitro": 82.76,
+          "weight_kg": 1540,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 4159,
+          "weight_delta": 285
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Advanced Kers Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 5,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 366.0,
+          "acceleration": 78.29,
+          "handling": 64.95,
+          "nitro": 81.26,
+          "weight_kg": 1360,
+          "archetype": "Normal",
+          "rank_delta": 450,
+          "final_rank": 4459,
+          "weight_delta": 105
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "Cast Iron Late Gearbox",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Street Drag Tires"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 374.7,
+          "acceleration": 80.29,
+          "handling": 57.45,
+          "nitro": 72.26,
+          "weight_kg": 1675,
+          "archetype": "Heavy",
+          "rank_delta": 300,
+          "final_rank": 4309,
+          "weight_delta": 420
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 5,
+          "nitroGainSys": 6,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 366.0,
+          "acceleration": 76.79,
+          "handling": 64.95,
+          "nitro": 82.76,
+          "weight_kg": 1360,
+          "archetype": "Normal",
+          "rank_delta": 450,
+          "final_rank": 4459,
+          "weight_delta": 105
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Featherweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 366.0,
+          "acceleration": 78.29,
+          "handling": 69.95,
+          "nitro": 75.26,
+          "weight_kg": 1060,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 4459,
+          "weight_delta": -195
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Advanced Kers Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 5,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 366.0,
+          "acceleration": 78.29,
+          "handling": 64.95,
+          "nitro": 81.26,
+          "weight_kg": 1360,
+          "archetype": "Normal",
+          "rank_delta": 450,
+          "final_rank": 4459,
+          "weight_delta": 105
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 5,
+          "nitroGainSys": 6,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 368.4,
+          "acceleration": 78.29,
+          "handling": 62.2,
+          "nitro": 82.76,
+          "weight_kg": 1645,
+          "archetype": "Heavy",
+          "rank_delta": 450,
+          "final_rank": 4459,
+          "weight_delta": 390
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "Cast Iron Late Gearbox",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 6,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 370.9,
+          "acceleration": 80.29,
+          "handling": 57.7,
+          "nitro": 82.76,
+          "weight_kg": 1960,
+          "archetype": "Overload",
+          "rank_delta": 450,
+          "final_rank": 4459,
+          "weight_delta": 705
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Featherweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 366.0,
+          "acceleration": 76.79,
+          "handling": 69.95,
+          "nitro": 75.26,
+          "weight_kg": 985,
+          "archetype": "Light",
+          "rank_delta": 400,
+          "final_rank": 4409,
+          "weight_delta": -270
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "6.0L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Featherweight Flywheels Kit",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 367.0,
+          "acceleration": 76.79,
+          "handling": 69.95,
+          "nitro": 75.26,
+          "weight_kg": 1045,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 4459,
+          "weight_delta": -210
+        }
+      }
+    }
+  },
+  "Chevrolet Corvette ZR1": {
+    "name": "Chevrolet Corvette ZR1",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Street Drag Tires"
+        },
+        "part_indices": {
+          "engine": 4,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 372.3,
+          "acceleration": 82.03,
+          "handling": 42.34,
+          "nitro": 76.33,
+          "weight_kg": 1924,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 4076,
+          "weight_delta": 405
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 6.2 Supercharged",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 355.4,
+          "acceleration": 86.78,
+          "handling": 60.09,
+          "nitro": 76.33,
+          "weight_kg": 1654,
+          "archetype": "Normal",
+          "rank_delta": 200,
+          "final_rank": 4076,
+          "weight_delta": 135
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 6.2 Supercharged",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 355.4,
+          "acceleration": 82.03,
+          "handling": 71.84,
+          "nitro": 76.33,
+          "weight_kg": 1414,
+          "archetype": "Light",
+          "rank_delta": 300,
+          "final_rank": 4176,
+          "weight_delta": -105
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 6.2 Supercharged",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Explosive Nitro",
+          "nitroGainSys": "Perfect Run Nitro Intake",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 355.4,
+          "acceleration": 82.03,
+          "handling": 48.34,
+          "nitro": 98.33,
+          "weight_kg": 1789,
+          "archetype": "Heavy",
+          "rank_delta": 100,
+          "final_rank": 3976,
+          "weight_delta": 270
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Explosive Nitro",
+          "nitroGainSys": "Perfect Run Nitro Intake",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 356.1,
+          "acceleration": 83.28,
+          "handling": 71.84,
+          "nitro": 91.58,
+          "weight_kg": 1384,
+          "archetype": "Light",
+          "rank_delta": 650,
+          "final_rank": 4526,
+          "weight_delta": -135
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Street Drag Tires"
+        },
+        "part_indices": {
+          "engine": 4,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 372.3,
+          "acceleration": 86.78,
+          "handling": 42.34,
+          "nitro": 76.33,
+          "weight_kg": 2059,
+          "archetype": "Heavy",
+          "rank_delta": 400,
+          "final_rank": 4276,
+          "weight_delta": 540
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Explosive Nitro",
+          "nitroGainSys": "Perfect Run Nitro Intake",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 356.1,
+          "acceleration": 83.28,
+          "handling": 71.84,
+          "nitro": 91.58,
+          "weight_kg": 1384,
+          "archetype": "Light",
+          "rank_delta": 650,
+          "final_rank": 4526,
+          "weight_delta": -135
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Explosive Nitro",
+          "nitroGainSys": "Perfect Run Nitro Intake",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 356.1,
+          "acceleration": 83.28,
+          "handling": 71.84,
+          "nitro": 91.58,
+          "weight_kg": 1384,
+          "archetype": "Light",
+          "rank_delta": 650,
+          "final_rank": 4526,
+          "weight_delta": -135
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Titanium",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Explosive Nitro",
+          "nitroGainSys": "Perfect Run Nitro Intake",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 356.1,
+          "acceleration": 86.78,
+          "handling": 60.09,
+          "nitro": 98.33,
+          "weight_kg": 1714,
+          "archetype": "Normal",
+          "rank_delta": 625,
+          "final_rank": 4501,
+          "weight_delta": 195
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Track",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Explosive Nitro",
+          "nitroGainSys": "Perfect Run Nitro Intake",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 2,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 360.2,
+          "acceleration": 86.78,
+          "handling": 52.34,
+          "nitro": 98.33,
+          "weight_kg": 2149,
+          "archetype": "Heavy",
+          "rank_delta": 650,
+          "final_rank": 4526,
+          "weight_delta": 630
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Explosive Nitro",
+          "nitroGainSys": "Perfect Run Nitro Intake",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 4,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 365.2,
+          "acceleration": 86.78,
+          "handling": 46.34,
+          "nitro": 98.33,
+          "weight_kg": 2329,
+          "archetype": "Overload",
+          "rank_delta": 650,
+          "final_rank": 4526,
+          "weight_delta": 810
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Explosive Nitro",
+          "nitroGainSys": "Proximity KERS",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 356.1,
+          "acceleration": 83.28,
+          "handling": 71.84,
+          "nitro": 83.33,
+          "weight_kg": 1204,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 4376,
+          "weight_delta": -315
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "V8 6.2 Supercharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Explosive Nitro",
+          "nitroGainSys": "Midweight Flywheels Kit",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 3,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 357.6,
+          "acceleration": 83.28,
+          "handling": 71.84,
+          "nitro": 87.58,
+          "weight_kg": 1384,
+          "archetype": "Light",
+          "rank_delta": 650,
+          "final_rank": 4526,
+          "weight_delta": -135
+        }
+      }
+    }
+  },
+  "McLaren Senna GTR": {
+    "name": "McLaren Senna GTR",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 369.3,
+          "acceleration": 82.03,
+          "handling": 56.34,
+          "nitro": 77.62,
+          "weight_kg": 1318,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 4225,
+          "weight_delta": 170
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Jump Aero Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 358.0,
+          "acceleration": 87.28,
+          "handling": 56.34,
+          "nitro": 77.62,
+          "weight_kg": 1288,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 4175,
+          "weight_delta": 140
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 358.0,
+          "acceleration": 82.03,
+          "handling": 66.84,
+          "nitro": 77.62,
+          "weight_kg": 1098,
+          "archetype": "Light",
+          "rank_delta": 200,
+          "final_rank": 4225,
+          "weight_delta": -50
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 4,
+          "nitroGainSys": 4,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 358.0,
+          "acceleration": 82.03,
+          "handling": 56.34,
+          "nitro": 88.12,
+          "weight_kg": 1268,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 4175,
+          "weight_delta": 120
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 359.5,
+          "acceleration": 83.28,
+          "handling": 66.84,
+          "nitro": 84.62,
+          "weight_kg": 1078,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 4525,
+          "weight_delta": -70
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Cast Iron",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Jump Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 364.7,
+          "acceleration": 87.28,
+          "handling": 56.34,
+          "nitro": 77.62,
+          "weight_kg": 1378,
+          "archetype": "Heavy",
+          "rank_delta": 350,
+          "final_rank": 4375,
+          "weight_delta": 230
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "—",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 0,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 359.5,
+          "acceleration": 82.03,
+          "handling": 66.84,
+          "nitro": 84.62,
+          "weight_kg": 1098,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 4475,
+          "weight_delta": -50
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 359.5,
+          "acceleration": 83.28,
+          "handling": 66.84,
+          "nitro": 84.62,
+          "weight_kg": 1078,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 4525,
+          "weight_delta": -70
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 359.5,
+          "acceleration": 85.53,
+          "handling": 60.84,
+          "nitro": 88.12,
+          "weight_kg": 1248,
+          "archetype": "Normal",
+          "rank_delta": 500,
+          "final_rank": 4525,
+          "weight_delta": 100
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Full Slick Tire"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 4,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 362.2,
+          "acceleration": 85.53,
+          "handling": 58.59,
+          "nitro": 88.12,
+          "weight_kg": 1378,
+          "archetype": "Heavy",
+          "rank_delta": 500,
+          "final_rank": 4525,
+          "weight_delta": 230
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Cast Iron",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Full Slick Tire"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 4,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 367.4,
+          "acceleration": 85.53,
+          "handling": 54.09,
+          "nitro": 88.12,
+          "weight_kg": 1498,
+          "archetype": "Overload",
+          "rank_delta": 500,
+          "final_rank": 4525,
+          "weight_delta": 350
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Perfect Run Nitro Intake",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 359.5,
+          "acceleration": 83.28,
+          "handling": 66.84,
+          "nitro": 81.12,
+          "weight_kg": 988,
+          "archetype": "Light",
+          "rank_delta": 400,
+          "final_rank": 4425,
+          "weight_delta": -160
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 359.5,
+          "acceleration": 83.28,
+          "handling": 66.84,
+          "nitro": 84.62,
+          "weight_kg": 1078,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 4525,
+          "weight_delta": -70
+        }
+      }
+    }
+  },
+  "Ford Shelby GT350R": {
+    "name": "Ford Shelby GT350R",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 306.5,
+          "acceleration": 75.06,
+          "handling": 51.97,
+          "nitro": 52.93,
+          "weight_kg": 1946,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 2748,
+          "weight_delta": 285
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\"",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 299.9,
+          "acceleration": 79.56,
+          "handling": 58.97,
+          "nitro": 52.93,
+          "weight_kg": 1766,
+          "archetype": "Normal",
+          "rank_delta": 150,
+          "final_rank": 2698,
+          "weight_delta": 105
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\"",
+          "drivetrain": "—",
+          "nitroSys": "Nextspeed - Normal Nitro",
+          "nitroGainSys": "Proximity KERS",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 299.9,
+          "acceleration": 75.06,
+          "handling": 65.97,
+          "nitro": 58.43,
+          "weight_kg": 1511,
+          "archetype": "Light",
+          "rank_delta": 300,
+          "final_rank": 2848,
+          "weight_delta": -150
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\"",
+          "drivetrain": "—",
+          "nitroSys": "Nextspeed - Universal",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 299.9,
+          "acceleration": 75.06,
+          "handling": 51.97,
+          "nitro": 69.68,
+          "weight_kg": 1841,
+          "archetype": "Heavy",
+          "rank_delta": 100,
+          "final_rank": 2648,
+          "weight_delta": 180
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Titanium",
+          "drivetrain": "Titanium Early Gearbox",
+          "nitroSys": "Nextspeed - Universal",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 300.8,
+          "acceleration": 78.06,
+          "handling": 58.97,
+          "nitro": 69.68,
+          "weight_kg": 1736,
+          "archetype": "Normal",
+          "rank_delta": 450,
+          "final_rank": 2998,
+          "weight_delta": 75
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 306.5,
+          "acceleration": 79.56,
+          "handling": 51.97,
+          "nitro": 52.93,
+          "weight_kg": 2051,
+          "archetype": "Heavy",
+          "rank_delta": 350,
+          "final_rank": 2898,
+          "weight_delta": 390
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Nextspeed - Universal",
+          "nitroGainSys": "Proximity KERS",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 4,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 300.8,
+          "acceleration": 76.56,
+          "handling": 65.97,
+          "nitro": 64.18,
+          "weight_kg": 1526,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 3048,
+          "weight_delta": -135
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Nextspeed - Universal",
+          "nitroGainSys": "Proximity KERS",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 4,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 300.8,
+          "acceleration": 76.56,
+          "handling": 65.97,
+          "nitro": 64.18,
+          "weight_kg": 1526,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 3048,
+          "weight_delta": -135
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Titanium",
+          "drivetrain": "Titanium Early Gearbox",
+          "nitroSys": "Nextspeed - Universal",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 300.8,
+          "acceleration": 78.06,
+          "handling": 58.97,
+          "nitro": 69.68,
+          "weight_kg": 1736,
+          "archetype": "Normal",
+          "rank_delta": 450,
+          "final_rank": 2998,
+          "weight_delta": 75
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Apex",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Nextspeed - Universal",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Mid Turbo"
+        },
+        "part_indices": {
+          "engine": 2,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 304.2,
+          "acceleration": 79.56,
+          "handling": 51.97,
+          "nitro": 69.68,
+          "weight_kg": 2036,
+          "archetype": "Heavy",
+          "rank_delta": 500,
+          "final_rank": 3048,
+          "weight_delta": 375
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Nextspeed - Universal",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 306.5,
+          "acceleration": 79.56,
+          "handling": 46.97,
+          "nitro": 69.68,
+          "weight_kg": 2231,
+          "archetype": "Overload",
+          "rank_delta": 500,
+          "final_rank": 3048,
+          "weight_delta": 570
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Nextspeed - Normal Nitro",
+          "nitroGainSys": "Proximity KERS",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 300.8,
+          "acceleration": 76.56,
+          "handling": 65.97,
+          "nitro": 58.43,
+          "weight_kg": 1391,
+          "archetype": "Light",
+          "rank_delta": 400,
+          "final_rank": 2948,
+          "weight_delta": -270
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "V8 5.2L \"Voodoo\" Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Nextspeed - Normal Nitro",
+          "nitroGainSys": "Proximity KERS",
+          "specialPack": "Speed Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 300.8,
+          "acceleration": 76.56,
+          "handling": 65.97,
+          "nitro": 58.43,
+          "weight_kg": 1496,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 3048,
+          "weight_delta": -165
+        }
+      }
+    }
+  },
+  "Lamborghini Centenario": {
+    "name": "Lamborghini Centenario",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Mid Turbo"
+        },
+        "part_indices": {
+          "engine": 4,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 382.6,
+          "acceleration": 80.48,
+          "handling": 47.46,
+          "nitro": 70.31,
+          "weight_kg": 1730,
+          "archetype": "Normal",
+          "rank_delta": 400,
+          "final_rank": 4109,
+          "weight_delta": 210
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 4,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 363.9,
+          "acceleration": 88.37,
+          "handling": 47.46,
+          "nitro": 70.31,
+          "weight_kg": 1700,
+          "archetype": "Normal",
+          "rank_delta": 350,
+          "final_rank": 4059,
+          "weight_delta": 180
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "—",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Featherlite Gain Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 0,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 366.1,
+          "acceleration": 80.48,
+          "handling": 61.72,
+          "nitro": 73.65,
+          "weight_kg": 1400,
+          "archetype": "Light",
+          "rank_delta": 650,
+          "final_rank": 4359,
+          "weight_delta": -120
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 4,
+          "nitroGainSys": 3,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 363.9,
+          "acceleration": 80.48,
+          "handling": 37.71,
+          "nitro": 87.01,
+          "weight_kg": 1835,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 3909,
+          "weight_delta": 315
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 3,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 368.3,
+          "acceleration": 81.6,
+          "handling": 57.21,
+          "nitro": 80.33,
+          "weight_kg": 1370,
+          "archetype": "Light",
+          "rank_delta": 750,
+          "final_rank": 4459,
+          "weight_delta": -150
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 4,
+          "drivetrain": 4,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 375.9,
+          "acceleration": 88.37,
+          "handling": 37.71,
+          "nitro": 70.31,
+          "weight_kg": 1835,
+          "archetype": "Heavy",
+          "rank_delta": 300,
+          "final_rank": 4009,
+          "weight_delta": 315
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 3,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 368.3,
+          "acceleration": 81.6,
+          "handling": 57.21,
+          "nitro": 80.33,
+          "weight_kg": 1370,
+          "archetype": "Light",
+          "rank_delta": 750,
+          "final_rank": 4459,
+          "weight_delta": -150
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 3,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 368.3,
+          "acceleration": 81.6,
+          "handling": 57.21,
+          "nitro": 80.33,
+          "weight_kg": 1370,
+          "archetype": "Light",
+          "rank_delta": 750,
+          "final_rank": 4459,
+          "weight_delta": -150
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Midweight DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 4,
+          "nitroGainSys": 3,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 368.3,
+          "acceleration": 83.86,
+          "handling": 47.46,
+          "nitro": 87.01,
+          "weight_kg": 1715,
+          "archetype": "Normal",
+          "rank_delta": 750,
+          "final_rank": 4459,
+          "weight_delta": 195
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 4,
+          "nitroSys": 4,
+          "nitroGainSys": 3,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 366.1,
+          "acceleration": 86.12,
+          "handling": 42.22,
+          "nitro": 87.01,
+          "weight_kg": 2030,
+          "archetype": "Heavy",
+          "rank_delta": 700,
+          "final_rank": 4409,
+          "weight_delta": 510
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 4,
+          "drivetrain": 4,
+          "nitroSys": 4,
+          "nitroGainSys": 3,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 375.9,
+          "acceleration": 86.12,
+          "handling": 37.22,
+          "nitro": 87.01,
+          "weight_kg": 2270,
+          "archetype": "Overload",
+          "rank_delta": 750,
+          "final_rank": 4459,
+          "weight_delta": 750
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Featherlite Gain Kit",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 368.3,
+          "acceleration": 81.6,
+          "handling": 57.21,
+          "nitro": 73.65,
+          "weight_kg": 1145,
+          "archetype": "Light",
+          "rank_delta": 550,
+          "final_rank": 4259,
+          "weight_delta": -375
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Nitro Intake Kit",
+          "specialPack": "Mid Turbo"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 2,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 372.8,
+          "acceleration": 81.6,
+          "handling": 57.21,
+          "nitro": 76.99,
+          "weight_kg": 1370,
+          "archetype": "Light",
+          "rank_delta": 750,
+          "final_rank": 4459,
+          "weight_delta": -150
+        }
+      }
+    }
+  },
+  "W Motors Lykan Hypersport": {
+    "name": "W Motors Lykan Hypersport",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Street Drag Tires"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 422.8,
+          "acceleration": 80.48,
+          "handling": 36.5,
+          "nitro": 58.26,
+          "weight_kg": 1630,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 4283,
+          "weight_delta": 230
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 407.5,
+          "acceleration": 84.73,
+          "handling": 40.97,
+          "nitro": 58.26,
+          "weight_kg": 1520,
+          "archetype": "Normal",
+          "rank_delta": 200,
+          "final_rank": 4283,
+          "weight_delta": 120
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Longshot - Universal",
+          "nitroGainSys": "—",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 412.0,
+          "acceleration": 81.48,
+          "handling": 45.44,
+          "nitro": 61.76,
+          "weight_kg": 1370,
+          "archetype": "Light",
+          "rank_delta": 550,
+          "final_rank": 4633,
+          "weight_delta": -30
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 407.5,
+          "acceleration": 80.48,
+          "handling": 38.0,
+          "nitro": 82.26,
+          "weight_kg": 1620,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 4233,
+          "weight_delta": 220
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Titanium",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 409.0,
+          "acceleration": 84.73,
+          "handling": 40.97,
+          "nitro": 82.26,
+          "weight_kg": 1600,
+          "archetype": "Normal",
+          "rank_delta": 600,
+          "final_rank": 4683,
+          "weight_delta": 200
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Street Drag Tires"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 422.8,
+          "acceleration": 84.73,
+          "handling": 36.5,
+          "nitro": 58.26,
+          "weight_kg": 1750,
+          "archetype": "Heavy",
+          "rank_delta": 400,
+          "final_rank": 4483,
+          "weight_delta": 350
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 407.5,
+          "acceleration": 80.48,
+          "handling": 40.97,
+          "nitro": 82.26,
+          "weight_kg": 1530,
+          "archetype": "Normal",
+          "rank_delta": 350,
+          "final_rank": 4433,
+          "weight_delta": 130
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 4,
+          "nitroGainSys": 3,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 409.0,
+          "acceleration": 81.48,
+          "handling": 43.94,
+          "nitro": 79.01,
+          "weight_kg": 1360,
+          "archetype": "Light",
+          "rank_delta": 600,
+          "final_rank": 4683,
+          "weight_delta": -40
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Titanium",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 409.0,
+          "acceleration": 84.73,
+          "handling": 40.97,
+          "nitro": 82.26,
+          "weight_kg": 1600,
+          "archetype": "Normal",
+          "rank_delta": 600,
+          "final_rank": 4683,
+          "weight_delta": 200
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Titanium",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 412.0,
+          "acceleration": 84.73,
+          "handling": 39.5,
+          "nitro": 82.26,
+          "weight_kg": 1810,
+          "archetype": "Heavy",
+          "rank_delta": 600,
+          "final_rank": 4683,
+          "weight_delta": 410
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 416.8,
+          "acceleration": 84.73,
+          "handling": 37.27,
+          "nitro": 82.26,
+          "weight_kg": 1970,
+          "archetype": "Overload",
+          "rank_delta": 600,
+          "final_rank": 4683,
+          "weight_delta": 570
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Longshot - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 409.0,
+          "acceleration": 81.48,
+          "handling": 43.94,
+          "nitro": 65.26,
+          "weight_kg": 1120,
+          "archetype": "Light",
+          "rank_delta": 400,
+          "final_rank": 4483,
+          "weight_delta": -280
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "Flat-Six 3.7L Twin-Turbocharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Longshot - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 412.0,
+          "acceleration": 81.48,
+          "handling": 45.44,
+          "nitro": 65.26,
+          "weight_kg": 1330,
+          "archetype": "Light",
+          "rank_delta": 600,
+          "final_rank": 4683,
+          "weight_delta": -70
+        }
+      }
+    }
+  },
+  "Ferrari SF90 Stradale": {
+    "name": "Ferrari SF90 Stradale",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Street Drag Tires"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 376.4,
+          "acceleration": 86.83,
+          "handling": 68.51,
+          "nitro": 69.9,
+          "weight_kg": 1855,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 4595,
+          "weight_delta": 285
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 355.4,
+          "acceleration": 94.58,
+          "handling": 79.51,
+          "nitro": 69.9,
+          "weight_kg": 1840,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 4545,
+          "weight_delta": 270
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "Barrel-Roll Inertia Flywheel",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 357.9,
+          "acceleration": 86.83,
+          "handling": 100.51,
+          "nitro": 71.4,
+          "weight_kg": 1465,
+          "archetype": "Light",
+          "rank_delta": 300,
+          "final_rank": 4695,
+          "weight_delta": -105
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 355.4,
+          "acceleration": 86.83,
+          "handling": 79.51,
+          "nitro": 77.9,
+          "weight_kg": 1750,
+          "archetype": "Heavy",
+          "rank_delta": 100,
+          "final_rank": 4495,
+          "weight_delta": 180
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 358.1,
+          "acceleration": 90.58,
+          "handling": 100.51,
+          "nitro": 75.4,
+          "weight_kg": 1495,
+          "archetype": "Light",
+          "rank_delta": 600,
+          "final_rank": 4995,
+          "weight_delta": -75
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 363.4,
+          "acceleration": 94.58,
+          "handling": 79.51,
+          "nitro": 69.9,
+          "weight_kg": 1960,
+          "archetype": "Heavy",
+          "rank_delta": 350,
+          "final_rank": 4745,
+          "weight_delta": 390
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Longshot - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 3,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 360.6,
+          "acceleration": 88.08,
+          "handling": 100.51,
+          "nitro": 76.65,
+          "weight_kg": 1480,
+          "archetype": "Light",
+          "rank_delta": 600,
+          "final_rank": 4995,
+          "weight_delta": -90
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 358.1,
+          "acceleration": 90.58,
+          "handling": 100.51,
+          "nitro": 75.4,
+          "weight_kg": 1495,
+          "archetype": "Light",
+          "rank_delta": 600,
+          "final_rank": 4995,
+          "weight_delta": -75
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Titanium Late Gearbox",
+          "nitroSys": "Longshot - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 3,
+          "nitroGainSys": 4,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 358.1,
+          "acceleration": 91.83,
+          "handling": 93.51,
+          "nitro": 76.65,
+          "weight_kg": 1630,
+          "archetype": "Normal",
+          "rank_delta": 500,
+          "final_rank": 4895,
+          "weight_delta": 60
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 358.1,
+          "acceleration": 94.58,
+          "handling": 79.51,
+          "nitro": 77.9,
+          "weight_kg": 1930,
+          "archetype": "Heavy",
+          "rank_delta": 500,
+          "final_rank": 4895,
+          "weight_delta": 360
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 363.4,
+          "acceleration": 94.58,
+          "handling": 69.01,
+          "nitro": 77.9,
+          "weight_kg": 2140,
+          "archetype": "Overload",
+          "rank_delta": 500,
+          "final_rank": 4895,
+          "weight_delta": 570
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Barrel-Roll Inertia Flywheel",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 360.6,
+          "acceleration": 88.08,
+          "handling": 100.51,
+          "nitro": 72.9,
+          "weight_kg": 1285,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 4845,
+          "weight_delta": -285
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "V8 Biturbo 4.0L Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Normal Nitro",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 358.1,
+          "acceleration": 90.58,
+          "handling": 100.51,
+          "nitro": 75.4,
+          "weight_kg": 1495,
+          "archetype": "Light",
+          "rank_delta": 600,
+          "final_rank": 4995,
+          "weight_delta": -75
+        }
+      }
+    }
+  },
+  "Aston Martin Valkyrie": {
+    "name": "Aston Martin Valkyrie",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 395.3,
+          "acceleration": 80.3,
+          "handling": 68.71,
+          "nitro": 76.7,
+          "weight_kg": 1545,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 4688,
+          "weight_delta": 285
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 378.2,
+          "acceleration": 83.6,
+          "handling": 77.91,
+          "nitro": 76.7,
+          "weight_kg": 1365,
+          "archetype": "Normal",
+          "rank_delta": 150,
+          "final_rank": 4638,
+          "weight_delta": 105
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12",
+          "drivetrain": "—",
+          "nitroSys": "Featherlite - Universal",
+          "nitroGainSys": "Featherweight Flywheels Kit",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 378.2,
+          "acceleration": 80.3,
+          "handling": 90.91,
+          "nitro": 82.4,
+          "weight_kg": 1110,
+          "archetype": "Light",
+          "rank_delta": 275,
+          "final_rank": 4763,
+          "weight_delta": -150
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 4,
+          "nitroGainSys": 4,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 378.2,
+          "acceleration": 80.3,
+          "handling": 64.91,
+          "nitro": 93.7,
+          "weight_kg": 1440,
+          "archetype": "Heavy",
+          "rank_delta": 125,
+          "final_rank": 4613,
+          "weight_delta": 180
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Universal",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 379.7,
+          "acceleration": 81.4,
+          "handling": 90.91,
+          "nitro": 88.05,
+          "weight_kg": 1125,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 4938,
+          "weight_delta": -135
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 395.3,
+          "acceleration": 83.6,
+          "handling": 53.71,
+          "nitro": 76.7,
+          "weight_kg": 1650,
+          "archetype": "Overload",
+          "rank_delta": 275,
+          "final_rank": 4763,
+          "weight_delta": 390
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Universal",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 379.7,
+          "acceleration": 81.4,
+          "handling": 90.91,
+          "nitro": 88.05,
+          "weight_kg": 1125,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 4938,
+          "weight_delta": -135
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Universal",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 379.7,
+          "acceleration": 81.4,
+          "handling": 90.91,
+          "nitro": 88.05,
+          "weight_kg": 1125,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 4938,
+          "weight_delta": -135
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 4,
+          "nitroGainSys": 4,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 383.4,
+          "acceleration": 81.4,
+          "handling": 77.91,
+          "nitro": 93.7,
+          "weight_kg": 1305,
+          "archetype": "Normal",
+          "rank_delta": 425,
+          "final_rank": 4913,
+          "weight_delta": 45
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 385.7,
+          "acceleration": 83.6,
+          "handling": 68.71,
+          "nitro": 93.7,
+          "weight_kg": 1560,
+          "archetype": "Heavy",
+          "rank_delta": 450,
+          "final_rank": 4938,
+          "weight_delta": 300
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Semi-Slick Tire"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 395.3,
+          "acceleration": 83.6,
+          "handling": 53.71,
+          "nitro": 93.7,
+          "weight_kg": 1830,
+          "archetype": "Overload",
+          "rank_delta": 575,
+          "final_rank": 5063,
+          "weight_delta": 570
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Universal",
+          "nitroGainSys": "Featherweight Flywheels Kit",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 379.7,
+          "acceleration": 81.4,
+          "handling": 90.91,
+          "nitro": 82.4,
+          "weight_kg": 990,
+          "archetype": "Light",
+          "rank_delta": 350,
+          "final_rank": 4838,
+          "weight_delta": -270
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "6.5L Naturally Aspirated V12 Cast Iron",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 4,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 389.3,
+          "acceleration": 83.6,
+          "handling": 49.91,
+          "nitro": 93.7,
+          "weight_kg": 1830,
+          "archetype": "Overload",
+          "rank_delta": 575,
+          "final_rank": 5063,
+          "weight_delta": 570
+        }
+      }
+    }
+  },
+  "Bugatti Chiron": {
+    "name": "Bugatti Chiron",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Mid Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 456.3,
+          "acceleration": 84.4,
+          "handling": 41.62,
+          "nitro": 63.63,
+          "weight_kg": 2440,
+          "archetype": "Heavy",
+          "rank_delta": 100,
+          "final_rank": 4855,
+          "weight_delta": 440
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Jump Aero Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 443.4,
+          "acceleration": 92.15,
+          "handling": 41.62,
+          "nitro": 63.63,
+          "weight_kg": 2420,
+          "archetype": "Heavy",
+          "rank_delta": 125,
+          "final_rank": 4880,
+          "weight_delta": 420
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Titanium",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 444.3,
+          "acceleration": 84.4,
+          "handling": 49.62,
+          "nitro": 63.63,
+          "weight_kg": 1800,
+          "archetype": "Light",
+          "rank_delta": 250,
+          "final_rank": 5005,
+          "weight_delta": -200
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheel Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 443.4,
+          "acceleration": 84.4,
+          "handling": 41.62,
+          "nitro": 74.63,
+          "weight_kg": 2500,
+          "archetype": "Heavy",
+          "rank_delta": 100,
+          "final_rank": 4855,
+          "weight_delta": 500
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Track",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheel Kit",
+          "specialPack": "Lite Jump Aero Pack"
+        },
+        "part_indices": {
+          "engine": 2,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 445.3,
+          "acceleration": 90.9,
+          "handling": 41.62,
+          "nitro": 74.63,
+          "weight_kg": 2800,
+          "archetype": "Heavy",
+          "rank_delta": 450,
+          "final_rank": 5205,
+          "weight_delta": 800
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Cast Iron",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Jump Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 450.9,
+          "acceleration": 92.15,
+          "handling": 41.62,
+          "nitro": 63.63,
+          "weight_kg": 2700,
+          "archetype": "Heavy",
+          "rank_delta": 300,
+          "final_rank": 5055,
+          "weight_delta": 700
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Titanium",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheel Kit",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 0,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 444.3,
+          "acceleration": 84.4,
+          "handling": 45.62,
+          "nitro": 74.63,
+          "weight_kg": 2300,
+          "archetype": "Normal",
+          "rank_delta": 350,
+          "final_rank": 5105,
+          "weight_delta": 300
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Titanium",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Longshot - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 444.3,
+          "acceleration": 86.9,
+          "handling": 49.62,
+          "nitro": 67.13,
+          "weight_kg": 1760,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 5205,
+          "weight_delta": -240
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Titanium",
+          "drivetrain": "Improved DT Pack",
+          "nitroSys": "Nextspeed - Universal",
+          "nitroGainSys": "Advanced Flywheel Kit",
+          "specialPack": "Lite Jump Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 3,
+          "nitroGainSys": 4,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 443.8,
+          "acceleration": 88.65,
+          "handling": 45.62,
+          "nitro": 72.88,
+          "weight_kg": 2260,
+          "archetype": "Normal",
+          "rank_delta": 450,
+          "final_rank": 5205,
+          "weight_delta": 260
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Track",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheel Kit",
+          "specialPack": "Lite Jump Aero Pack"
+        },
+        "part_indices": {
+          "engine": 2,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 445.3,
+          "acceleration": 90.9,
+          "handling": 41.62,
+          "nitro": 74.63,
+          "weight_kg": 2800,
+          "archetype": "Heavy",
+          "rank_delta": 450,
+          "final_rank": 5205,
+          "weight_delta": 800
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Cast Iron",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "Heavycore - Universal",
+          "nitroGainSys": "Advanced Flywheel Kit",
+          "specialPack": "Max Jump Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 450.9,
+          "acceleration": 92.15,
+          "handling": 36.87,
+          "nitro": 74.63,
+          "weight_kg": 3200,
+          "archetype": "Overload",
+          "rank_delta": 400,
+          "final_rank": 5155,
+          "weight_delta": 1200
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Titanium",
+          "drivetrain": "—",
+          "nitroSys": "Longshot - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 0,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 444.3,
+          "acceleration": 84.4,
+          "handling": 49.62,
+          "nitro": 67.13,
+          "weight_kg": 1720,
+          "archetype": "Light",
+          "rank_delta": 350,
+          "final_rank": 5105,
+          "weight_delta": -280
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "W16 8.0L Quad Turbocharged Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Longshot - Universal",
+          "nitroGainSys": "Drift Nitro Intake",
+          "specialPack": "Midweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 444.3,
+          "acceleration": 85.65,
+          "handling": 49.62,
+          "nitro": 67.13,
+          "weight_kg": 1760,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 5205,
+          "weight_delta": -240
+        }
+      }
+    }
+  },
+  "Chevrolet Camaro LT": {
+    "name": "Chevrolet Camaro LT",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Track",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 291.7,
+          "acceleration": 64.81,
+          "handling": 38.39,
+          "nitro": 63.29,
+          "weight_kg": 1820,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 1696,
+          "weight_delta": 300
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 284.1,
+          "acceleration": 71.96,
+          "handling": 48.39,
+          "nitro": 63.29,
+          "weight_kg": 1745,
+          "archetype": "Normal",
+          "rank_delta": 250,
+          "final_rank": 1796,
+          "weight_delta": 225
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "Combined KERS",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 284.1,
+          "acceleration": 64.81,
+          "handling": 58.39,
+          "nitro": 64.74,
+          "weight_kg": 1370,
+          "archetype": "Light",
+          "rank_delta": 350,
+          "final_rank": 1896,
+          "weight_delta": -150
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Explosive Nitro",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 284.1,
+          "acceleration": 64.81,
+          "handling": 38.39,
+          "nitro": 76.19,
+          "weight_kg": 1835,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 1696,
+          "weight_delta": 315
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Titanium",
+          "drivetrain": "Magnesium Alloy Early Gearbox",
+          "nitroSys": "Nextspeed - Normal Nitro",
+          "nitroGainSys": "Flat-Spin Inertia Flywheel",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 3,
+          "nitroGainSys": 2,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 284.6,
+          "acceleration": 65.53,
+          "handling": 58.39,
+          "nitro": 71.89,
+          "weight_kg": 1340,
+          "archetype": "Light",
+          "rank_delta": 675,
+          "final_rank": 2221,
+          "weight_delta": -180
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Track",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 291.7,
+          "acceleration": 71.96,
+          "handling": 38.39,
+          "nitro": 63.29,
+          "weight_kg": 2045,
+          "archetype": "Heavy",
+          "rank_delta": 400,
+          "final_rank": 1946,
+          "weight_delta": 525
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Titanium",
+          "drivetrain": "Magnesium Alloy Early Gearbox",
+          "nitroSys": "Nextspeed - Normal Nitro",
+          "nitroGainSys": "Flat-Spin Inertia Flywheel",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 3,
+          "nitroGainSys": 2,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 284.6,
+          "acceleration": 65.53,
+          "handling": 58.39,
+          "nitro": 71.89,
+          "weight_kg": 1340,
+          "archetype": "Light",
+          "rank_delta": 675,
+          "final_rank": 2221,
+          "weight_delta": -180
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Titanium",
+          "drivetrain": "Magnesium Alloy Early Gearbox",
+          "nitroSys": "Nextspeed - Normal Nitro",
+          "nitroGainSys": "Flat-Spin Inertia Flywheel",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 3,
+          "nitroGainSys": 2,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 284.6,
+          "acceleration": 65.53,
+          "handling": 58.39,
+          "nitro": 71.89,
+          "weight_kg": 1340,
+          "archetype": "Light",
+          "rank_delta": 675,
+          "final_rank": 2221,
+          "weight_delta": -180
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Titanium",
+          "drivetrain": "Titanium Late Gearbox",
+          "nitroSys": "Heavycore - Explosive Nitro",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 284.6,
+          "acceleration": 69.81,
+          "handling": 48.39,
+          "nitro": 76.19,
+          "weight_kg": 1760,
+          "archetype": "Normal",
+          "rank_delta": 675,
+          "final_rank": 2221,
+          "weight_delta": 240
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Track",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Explosive Nitro",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 289.2,
+          "acceleration": 71.96,
+          "handling": 38.39,
+          "nitro": 76.19,
+          "weight_kg": 2150,
+          "archetype": "Heavy",
+          "rank_delta": 700,
+          "final_rank": 2246,
+          "weight_delta": 630
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Track",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Explosive Nitro",
+          "nitroGainSys": "Advanced Flywheels Kit",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 3,
+          "nitroSys": 4,
+          "nitroGainSys": 5,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 291.7,
+          "acceleration": 71.96,
+          "handling": 30.89,
+          "nitro": 76.19,
+          "weight_kg": 2360,
+          "archetype": "Overload",
+          "rank_delta": 700,
+          "final_rank": 2246,
+          "weight_delta": 840
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Titanium",
+          "drivetrain": "Magnesium Alloy Early Gearbox",
+          "nitroSys": "Quicklaunch - Normal Nitro",
+          "nitroGainSys": "Combined KERS",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 284.6,
+          "acceleration": 65.53,
+          "handling": 58.39,
+          "nitro": 66.89,
+          "weight_kg": 1100,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 2046,
+          "weight_delta": -420
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "2.0L Turbocharged Inline-4 Titanium",
+          "drivetrain": "Magnesium Alloy Early Gearbox",
+          "nitroSys": "Quicklaunch - Normal Nitro",
+          "nitroGainSys": "Combined KERS",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 287.4,
+          "acceleration": 65.53,
+          "handling": 58.39,
+          "nitro": 66.89,
+          "weight_kg": 1355,
+          "archetype": "Light",
+          "rank_delta": 700,
+          "final_rank": 2246,
+          "weight_delta": -165
+        }
+      }
+    }
+  },
+  "BMW 3.0 CSL Hommage": {
+    "name": "BMW 3.0 CSL Hommage",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "L8 3.0 Biturbo Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 5
+        },
+        "stats": {
+          "top_speed": 316.9,
+          "acceleration": 73.39,
+          "handling": 42.33,
+          "nitro": 51.2,
+          "weight_kg": 1450,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 1976,
+          "weight_delta": 200
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "L8 3.0 Biturbo",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 4,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 297.4,
+          "acceleration": 93.14,
+          "handling": 42.33,
+          "nitro": 51.2,
+          "weight_kg": 1510,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 1976,
+          "weight_delta": 260
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "L8 3.0 Biturbo",
+          "drivetrain": "—",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Combined KERS",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 300.1,
+          "acceleration": 73.39,
+          "handling": 57.83,
+          "nitro": 57.45,
+          "weight_kg": 1130,
+          "archetype": "Light",
+          "rank_delta": 475,
+          "final_rank": 2301,
+          "weight_delta": -120
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "L8 3.0 Biturbo",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 297.4,
+          "acceleration": 73.39,
+          "handling": 42.33,
+          "nitro": 72.95,
+          "weight_kg": 1460,
+          "archetype": "Heavy",
+          "rank_delta": 150,
+          "final_rank": 1976,
+          "weight_delta": 210
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "L8 3.0 Biturbo Titanium",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 4,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 300.1,
+          "acceleration": 93.14,
+          "handling": 42.33,
+          "nitro": 72.95,
+          "weight_kg": 1650,
+          "archetype": "Heavy",
+          "rank_delta": 650,
+          "final_rank": 2476,
+          "weight_delta": 400
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "L8 3.0 Biturbo Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 4,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 308.4,
+          "acceleration": 93.14,
+          "handling": 42.33,
+          "nitro": 51.2,
+          "weight_kg": 1600,
+          "archetype": "Heavy",
+          "rank_delta": 400,
+          "final_rank": 2226,
+          "weight_delta": 350
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "L8 3.0 Biturbo",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 1,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 297.4,
+          "acceleration": 74.39,
+          "handling": 50.08,
+          "nitro": 72.95,
+          "weight_kg": 1400,
+          "archetype": "Normal",
+          "rank_delta": 475,
+          "final_rank": 2301,
+          "weight_delta": 150
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "L8 3.0 Biturbo Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Combined KERS",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 300.1,
+          "acceleration": 83.14,
+          "handling": 57.83,
+          "nitro": 57.45,
+          "weight_kg": 1140,
+          "archetype": "Light",
+          "rank_delta": 700,
+          "final_rank": 2526,
+          "weight_delta": -110
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "L8 3.0 Biturbo Titanium",
+          "drivetrain": "Cast Iron Early Gearbox",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 2,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 300.1,
+          "acceleration": 89.89,
+          "handling": 50.08,
+          "nitro": 64.7,
+          "weight_kg": 1410,
+          "archetype": "Normal",
+          "rank_delta": 700,
+          "final_rank": 2526,
+          "weight_delta": 160
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "L8 3.0 Biturbo Titanium",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 4,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 300.1,
+          "acceleration": 93.14,
+          "handling": 42.33,
+          "nitro": 72.95,
+          "weight_kg": 1650,
+          "archetype": "Heavy",
+          "rank_delta": 650,
+          "final_rank": 2476,
+          "weight_delta": 400
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "L8 3.0 Biturbo Cast Iron",
+          "drivetrain": "Heavyweight DT Pack",
+          "nitroSys": "Heavycore - Perfect Nitro",
+          "nitroGainSys": "Advanced KERS Kit",
+          "specialPack": "Max Acceleration Aero Pack"
+        },
+        "part_indices": {
+          "engine": 3,
+          "drivetrain": 4,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 4
+        },
+        "stats": {
+          "top_speed": 308.4,
+          "acceleration": 93.14,
+          "handling": 38.33,
+          "nitro": 72.95,
+          "weight_kg": 1810,
+          "archetype": "Overload",
+          "rank_delta": 700,
+          "final_rank": 2526,
+          "weight_delta": 560
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "L8 3.0 Biturbo Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Combined KERS",
+          "specialPack": "Lightweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 302.8,
+          "acceleration": 74.39,
+          "handling": 57.83,
+          "nitro": 57.45,
+          "weight_kg": 1000,
+          "archetype": "Light",
+          "rank_delta": 550,
+          "final_rank": 2376,
+          "weight_delta": -250
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "L8 3.0 Biturbo Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Perfect Nitro",
+          "nitroGainSys": "Combined KERS",
+          "specialPack": "Max Speed Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 300.1,
+          "acceleration": 74.39,
+          "handling": 57.83,
+          "nitro": 57.45,
+          "weight_kg": 1140,
+          "archetype": "Light",
+          "rank_delta": 700,
+          "final_rank": 2526,
+          "weight_delta": -110
+        }
+      }
+    }
+  },
+  "Acura 2017 NSX": {
+    "name": "Acura 2017 NSX",
+    "builds": {
+      "max_top_speed": {
+        "label": "Max Top Speed",
+        "icon": "🏎️",
+        "description": "Absolute best Top Speed.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Cast Iron",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 4,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 334.5,
+          "acceleration": 84.32,
+          "handling": 56.52,
+          "nitro": 54.67,
+          "weight_kg": 1950,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 3399,
+          "weight_delta": 225
+        }
+      },
+      "max_acceleration": {
+        "label": "Max Acceleration",
+        "icon": "🚀",
+        "description": "Absolute best Acceleration.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 323.5,
+          "acceleration": 88.07,
+          "handling": 63.02,
+          "nitro": 54.67,
+          "weight_kg": 1830,
+          "archetype": "Normal",
+          "rank_delta": 150,
+          "final_rank": 3349,
+          "weight_delta": 105
+        }
+      },
+      "max_handling": {
+        "label": "Max Handling",
+        "icon": "🎯",
+        "description": "Absolute best Handling.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid",
+          "drivetrain": "—",
+          "nitroSys": "—",
+          "nitroGainSys": "Air Time Inertia Flywheel",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 0,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 323.5,
+          "acceleration": 84.32,
+          "handling": 71.52,
+          "nitro": 57.17,
+          "weight_kg": 1590,
+          "archetype": "Light",
+          "rank_delta": 250,
+          "final_rank": 3449,
+          "weight_delta": -135
+        }
+      },
+      "max_nitro": {
+        "label": "Max Nitro",
+        "icon": "⚡",
+        "description": "Absolute best Nitro.",
+        "tag": "max_stat",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid",
+          "drivetrain": "—",
+          "nitroSys": "Heavycore - Shockwave",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "—"
+        },
+        "part_indices": {
+          "engine": 0,
+          "drivetrain": 0,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 0
+        },
+        "stats": {
+          "top_speed": 323.5,
+          "acceleration": 84.32,
+          "handling": 56.52,
+          "nitro": 73.42,
+          "weight_kg": 1980,
+          "archetype": "Heavy",
+          "rank_delta": 200,
+          "final_rank": 3399,
+          "weight_delta": 255
+        }
+      },
+      "all_rounder": {
+        "label": "All-Rounder",
+        "icon": "🏆",
+        "description": "Best overall balance across all four stats.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Shockwave",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 325.1,
+          "acceleration": 85.57,
+          "handling": 71.52,
+          "nitro": 64.92,
+          "weight_kg": 1560,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 3699,
+          "weight_delta": -165
+        }
+      },
+      "speed_accel": {
+        "label": "Speed + Accel",
+        "icon": "⚡",
+        "description": "Blazing straight-line performance.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Cast Iron",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "—",
+          "nitroGainSys": "—",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 4,
+          "drivetrain": 3,
+          "nitroSys": 0,
+          "nitroGainSys": 0,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 334.5,
+          "acceleration": 88.07,
+          "handling": 56.52,
+          "nitro": 54.67,
+          "weight_kg": 2055,
+          "archetype": "Heavy",
+          "rank_delta": 350,
+          "final_rank": 3549,
+          "weight_delta": 330
+        }
+      },
+      "handling_nitro": {
+        "label": "Handling + Nitro",
+        "icon": "🌀",
+        "description": "Tight cornering with great nitro boosts.",
+        "tag": "multi_stat",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Titanium",
+          "drivetrain": "—",
+          "nitroSys": "Featherlite - Shockwave",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 0,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 325.1,
+          "acceleration": 84.32,
+          "handling": 71.52,
+          "nitro": 64.92,
+          "weight_kg": 1605,
+          "archetype": "Light",
+          "rank_delta": 450,
+          "final_rank": 3649,
+          "weight_delta": -120
+        }
+      },
+      "arch_light": {
+        "label": "Best Light",
+        "icon": "🪶",
+        "description": "Best stats while staying Light.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Shockwave",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 325.1,
+          "acceleration": 85.57,
+          "handling": 71.52,
+          "nitro": 64.92,
+          "weight_kg": 1560,
+          "archetype": "Light",
+          "rank_delta": 500,
+          "final_rank": 3699,
+          "weight_delta": -165
+        }
+      },
+      "arch_normal": {
+        "label": "Best Normal",
+        "icon": "⚖️",
+        "description": "Best stats while staying Normal.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Heavycore - Shockwave",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 325.1,
+          "acceleration": 85.57,
+          "handling": 63.02,
+          "nitro": 73.42,
+          "weight_kg": 1770,
+          "archetype": "Normal",
+          "rank_delta": 450,
+          "final_rank": 3649,
+          "weight_delta": 45
+        }
+      },
+      "arch_heavy": {
+        "label": "Best Heavy",
+        "icon": "🪨",
+        "description": "Best stats while staying Heavy.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Titanium",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "Heavycore - Shockwave",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 330.1,
+          "acceleration": 88.07,
+          "handling": 56.52,
+          "nitro": 73.42,
+          "weight_kg": 2115,
+          "archetype": "Heavy",
+          "rank_delta": 550,
+          "final_rank": 3749,
+          "weight_delta": 390
+        }
+      },
+      "arch_overload": {
+        "label": "Best Overload",
+        "icon": "🔴",
+        "description": "Best stats while staying Overload.",
+        "tag": "archetype",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Cast Iron",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "Heavycore - Shockwave",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Max Turbo"
+        },
+        "part_indices": {
+          "engine": 4,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 3
+        },
+        "stats": {
+          "top_speed": 334.5,
+          "acceleration": 88.07,
+          "handling": 50.02,
+          "nitro": 73.42,
+          "weight_kg": 2310,
+          "archetype": "Overload",
+          "rank_delta": 550,
+          "final_rank": 3749,
+          "weight_delta": 585
+        }
+      },
+      "lightest": {
+        "label": "Lightest Build",
+        "icon": "🪶",
+        "description": "Absolute minimum weight.",
+        "tag": "special",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Titanium",
+          "drivetrain": "Lightweight DT Pack",
+          "nitroSys": "Featherlite - Shockwave",
+          "nitroGainSys": "Air Time Inertia Flywheel",
+          "specialPack": "Heavyweight Reduction Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 1,
+          "nitroSys": 1,
+          "nitroGainSys": 1,
+          "specialPack": 1
+        },
+        "stats": {
+          "top_speed": 325.1,
+          "acceleration": 85.57,
+          "handling": 71.52,
+          "nitro": 59.67,
+          "weight_kg": 1425,
+          "archetype": "Light",
+          "rank_delta": 400,
+          "final_rank": 3599,
+          "weight_delta": -300
+        }
+      },
+      "max_rank": {
+        "label": "Max Rank",
+        "icon": "🏆",
+        "description": "Highest possible rank number.",
+        "tag": "special",
+        "parts": {
+          "engine": "V6 Biturbo Hybrid Titanium",
+          "drivetrain": "Early E-Upgrade",
+          "nitroSys": "Heavycore - Shockwave",
+          "nitroGainSys": "Heavyweight Flywheels Kit",
+          "specialPack": "Max Speed Aero Pack"
+        },
+        "part_indices": {
+          "engine": 1,
+          "drivetrain": 3,
+          "nitroSys": 5,
+          "nitroGainSys": 4,
+          "specialPack": 2
+        },
+        "stats": {
+          "top_speed": 325.1,
+          "acceleration": 88.07,
+          "handling": 56.52,
+          "nitro": 73.42,
+          "weight_kg": 2115,
+          "archetype": "Heavy",
+          "rank_delta": 550,
+          "final_rank": 3749,
+          "weight_delta": 390
+        }
+      }
+    }
+  }
+}

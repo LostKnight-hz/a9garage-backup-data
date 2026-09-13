@@ -1,0 +1,844 @@
+{
+  "trackTypes": [
+    "Sprint",
+    "Circuit"
+  ],
+  "terrainTypes": [
+    "Asphalt",
+    "Dirt",
+    "Mixed",
+    "Snow / Ice"
+  ],
+  "tracks": [
+    {
+      "id": "8c895f88-fd9b-4bf4-b7e0-72cb7f44f98a",
+      "region": "San Francisco",
+      "name": "Railroad Bustle",
+      "type": "",
+      "terrain": "",
+      "cars": [
+        {
+          "profileStats": [
+            "topSpeed",
+            "accel",
+            "nitro"
+          ],
+          "profileOther": "",
+          "examples": [
+            "Peugeot 9x8",
+            "Ferrari SF90 Stradale",
+            "Vanda Electrics Dendrobium",
+            "Rimac Nevera Time Attack"
+          ],
+          "note": ""
+        }
+      ],
+      "shortcuts": "Instead of taking the ramp after train section instead try to go below on right side to take the barrel roll.",
+      "hazards": "Do not take the path to the left side near the train section.",
+      "youtube": [
+        {
+          "url": "https://youtu.be/12IiE-sW8mc?si=vJLV9dml63B58sOm",
+          "creator": "Raidee",
+          "car": "Vanda",
+          "time": "18.299 / 18.366",
+          "start": "",
+          "end": ""
+        },
+        {
+          "url": "https://youtu.be/mINjYTjsSS8?si=XvExGV0x6h_IWcaV",
+          "creator": "Lykan Pawcio 21™ / Lykan Yukino™",
+          "car": "9x8",
+          "time": "18.299",
+          "start": "0:57",
+          "end": "1:19"
+        },
+        {
+          "url": "https://youtu.be/_905vtKZR7U?si=UFbmFiSGUYUUurU8",
+          "creator": "Nox Fury",
+          "car": "Battista",
+          "time": "18.999",
+          "start": "3:38",
+          "end": "4:02"
+        }
+      ],
+      "lapTimes": {
+        "td": {
+          "best": "18.900",
+          "avg": "20.xxx"
+        },
+        "md": {
+          "best": "18.299",
+          "avg": "19.xxx"
+        }
+      }
+    },
+    {
+      "id": "bdb643a8-40fa-4f8e-a0a1-83d0b36fd24e",
+      "region": "San Francisco",
+      "name": "The Tunnel",
+      "type": "",
+      "terrain": "",
+      "cars": [
+        {
+          "profileStats": [
+            "topSpeed",
+            "accel"
+          ],
+          "profileOther": "",
+          "examples": [
+            "Rimac Nevera",
+            "Aspark Owl",
+            "Vanda Electrics Dendrobium",
+            "Rimac Nevera Time Attack",
+            "Bugatti Chiron"
+          ],
+          "note": "Vanda works better than 9x8 here due to higher TS."
+        }
+      ],
+      "shortcuts": "",
+      "hazards": "Don't take the barrel roll too high and avoid hitting the truck upon landing.",
+      "youtube": [
+        {
+          "url": "https://youtu.be/sAhxkSs9M-U?si=HjZt60OuF_YJQ9_R",
+          "creator": "QuanTheAznPoop",
+          "car": "EVO Chiron",
+          "time": "19.131",
+          "start": "0.15",
+          "end": "0.41"
+        },
+        {
+          "url": "https://youtu.be/_905vtKZR7U?si=sBjwNOf9jj-AYik3",
+          "creator": "Nox Fury",
+          "car": "Aspark Owl",
+          "time": "19.433",
+          "start": "2:39",
+          "end": "3:00"
+        }
+      ],
+      "lapTimes": {
+        "td": {
+          "best": "20.200",
+          "avg": "21.xxx"
+        },
+        "md": {
+          "best": "19.131",
+          "avg": "20.4xx"
+        }
+      }
+    },
+    {
+      "id": "f207956a-a830-43c8-bfbd-5bb90336d72a",
+      "region": "Himalayas",
+      "name": "Leap of Faith",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "341eaed1-6427-44c9-a0b1-6120e31971db",
+      "region": "Himalayas",
+      "name": "Freefall",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "9a493596-45c5-4643-af30-a296d964754a",
+      "region": "Shanghai",
+      "name": "Paris of the East",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "3aa6986a-035f-42b6-a93f-48edc2547f62",
+      "region": "Shanghai",
+      "name": "Double Roundabout",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "2a2d500d-5003-45e7-89fe-5310487b667e",
+      "region": "Rome",
+      "name": "Roman Tumbel",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "15681e5a-017d-408e-a7be-65c0f411b15d",
+      "region": "Rome",
+      "name": "Roman Byroads",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "b3ec77ff-2129-4093-a72f-27272451002d",
+      "region": "Cairo",
+      "name": "A King's Revival",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "e1217ac6-b100-41bb-8a16-d8dbb4310a16",
+      "region": "Cairo",
+      "name": "Gezira Island",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "52781ac5-137b-40ac-8ce7-9260533eb263",
+      "region": "Scotland",
+      "name": "Rocky Valley",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "2683a953-0b51-4c3a-88a2-351775d804eb",
+      "region": "Scotland",
+      "name": "Ghost Ships",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "240d94de-5d13-47e4-951f-0a046fba6948",
+      "region": "U.S. Midwest",
+      "name": "Trainspotter",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "bab717b0-8051-45e0-bf63-c8cf81bc806a",
+      "region": "U.S. Midwest",
+      "name": "It's a Twister!",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "3313f343-2af0-4289-9b7a-3bbb87894bcd",
+      "region": "The Caribbean",
+      "name": "Resort Dash",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "dc805084-eb78-496f-812a-5b0430a7f7ea",
+      "region": "The Caribbean",
+      "name": "Hell Vale",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "69e9eeba-13c3-4c6a-aa22-4f2456e17490",
+      "region": "Osaka",
+      "name": "Namba Park",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "d0e88a8b-70ba-4083-862d-732c94945cba",
+      "region": "Osaka",
+      "name": "Meiji Rush",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "872ef66c-363e-4e71-81c9-1e664f4bee76",
+      "region": "New York",
+      "name": "Wall Street Life",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "a716eb74-249f-4882-9e3a-b23df60b058b",
+      "region": "New York",
+      "name": "A Run in the Park",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "6c6fd077-da14-4b71-a609-ffe77b12183f",
+      "region": "Nevada",
+      "name": "Tunnel Sprint",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "5f36d188-030b-4913-a916-27133ba64e6d",
+      "region": "Nevada",
+      "name": "Bridge to Bridge",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "ec0320a8-a533-4b5c-9c41-7f3a433209a3",
+      "region": "Auckland",
+      "name": "Hairpin Finish",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "03f4ece4-47e5-4f1b-983f-b4e8af6f3192",
+      "region": "Auckland",
+      "name": "Straight Sprint",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "f673dc4f-202c-4085-aa0d-18ee999b57c2",
+      "region": "Buenos Aires",
+      "name": "La Boca",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "56882c6a-93cf-4db0-b8dd-33c8a908b23d",
+      "region": "Buenos Aires",
+      "name": "Water Run",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "09674863-d6c8-4595-a415-8dd34eaa0ecc",
+      "region": "Greenland",
+      "name": "Out of the Center",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "114fad83-c0a9-4d14-ba77-da888add32f7",
+      "region": "Greenland",
+      "name": "Ice Breakers",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "19af3ba0-b353-4c84-9895-7356a91ce83b",
+      "region": "Paris",
+      "name": "Notre Dame",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "0ee1fc99-0a5a-437a-ae38-31d7c09cd26e",
+      "region": "Paris",
+      "name": "Along the Seine",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "533b10f3-8195-45f3-b0fe-9d7ab57ad00a",
+      "region": "Tuscany",
+      "name": "Vineyard Voyage",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "c613a580-66a4-4c37-b80a-e38bc611d5f9",
+      "region": "Tuscany",
+      "name": "Riverine Launch",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "a7935f50-dca2-4248-8939-1a9233fd470d",
+      "region": "Norway",
+      "name": "Future Fusion",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "a0af8ee9-32d9-413c-afb8-3d07c88beaf1",
+      "region": "Norway",
+      "name": "Rocketing to the Future",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "c663f368-c7ae-451b-95fa-2c006862f924",
+      "region": "Singapore",
+      "name": "Urban Rush",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    },
+    {
+      "id": "5215fdf8-ea3b-4612-8343-c07ef5a61086",
+      "region": "Singapore",
+      "name": "Waterslide Whirl",
+      "type": "",
+      "terrain": "",
+      "cars": [],
+      "shortcuts": "",
+      "hazards": "",
+      "youtube": [],
+      "lapTimes": {
+        "td": {
+          "best": "",
+          "avg": ""
+        },
+        "md": {
+          "best": "",
+          "avg": ""
+        }
+      }
+    }
+  ]
+}
