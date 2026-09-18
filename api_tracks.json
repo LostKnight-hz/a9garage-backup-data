@@ -46,7 +46,7 @@
         },
         {
           "url": "https://youtu.be/mINjYTjsSS8?si=XvExGV0x6h_IWcaV",
-          "creator": "Lykan Pawcio 21™ / Lykan Yukino™",
+          "creator": "Lykan Pawcio 21\u2122 / Lykan Yukino\u2122",
           "car": "9x8",
           "time": "18.299",
           "start": "0:57",
@@ -59,6 +59,14 @@
           "time": "18.999",
           "start": "3:38",
           "end": "4:02"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=uu2lO4AZvQ8",
+          "creator": "Driver 7473",
+          "car": "EVO Lykan",
+          "time": "17.399",
+          "start": "0:56",
+          "end": ""
         }
       ],
       "lapTimes": {
@@ -113,6 +121,14 @@
           "time": "19.433",
           "start": "2:39",
           "end": "3:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=uu2lO4AZvQ8",
+          "creator": "Driver 7473",
+          "car": "EVO Lykan",
+          "time": "18.699 MD",
+          "start": "1:17",
+          "end": "1:43"
         }
       ],
       "lapTimes": {
@@ -132,10 +148,41 @@
       "name": "Leap of Faith",
       "type": "",
       "terrain": "",
-      "cars": [],
+      "cars": [
+        {
+          "profileStats": [
+            "topSpeed",
+            "accel"
+          ],
+          "profileOther": "",
+          "examples": [
+            "Bugatti Chiron",
+            "W Motors Lykan Hypersport",
+            "Ferrari SF90 Stradale"
+          ],
+          "note": ""
+        }
+      ],
       "shortcuts": "",
-      "hazards": "",
-      "youtube": [],
+      "hazards": "EVO minimal-weight builds with aero accel packs and heavy drivetrains are extremely useful here due to the amount of airtime on the track. Heavy builds/EVs aren't recommended. (Driver 8806)",
+      "youtube": [
+        {
+          "url": "https://www.youtube.com/watch?v=uu2lO4AZvQ8",
+          "creator": "Driver 7473",
+          "car": "EVO Lykan",
+          "time": "17.633",
+          "start": "5:44",
+          "end": "6:10"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=h6YgutmxXBs",
+          "creator": "Dorekise",
+          "car": "EVO Chiron",
+          "time": "17.966",
+          "start": "6:11",
+          "end": "6:38"
+        }
+      ],
       "lapTimes": {
         "td": {
           "best": "",
@@ -153,10 +200,67 @@
       "name": "Freefall",
       "type": "",
       "terrain": "",
-      "cars": [],
-      "shortcuts": "",
-      "hazards": "",
-      "youtube": [],
+      "cars": [
+        {
+          "profileStats": [
+            "topSpeed"
+          ],
+          "profileOther": "",
+          "examples": [
+            "Devel Sixteen",
+            "Tushek Aeon E",
+            "Hennessey Venom F5",
+            "Bugatti Chiron"
+          ],
+          "note": "This track is heavily Top speed oriented. Even stock Devel would work like magic."
+        },
+        {
+          "profileStats": [
+            "topSpeed"
+          ],
+          "profileOther": "",
+          "examples": [
+            "Mazda Furai",
+            "TVR Griffith",
+            "Arrinera Hussarya 33",
+            "W Motors Lykan Hypersport"
+          ],
+          "note": "Recommended for beginners due to their high top speed for their rank bracket.",
+          "credit": "Driver 8806"
+        }
+      ],
+      "shortcuts": [
+        {
+          "text": "On TD: turn off TD once in the air, to land in the middle instead of left side."
+        },
+        {
+          "text": "On Manual: Once you are going up the hill, punch drift around the curve and use shockwave. You don't need to drift around the second curve, it's faster to go straight.",
+          "credit": "Driver 8806"
+        }
+      ],
+      "hazards": [
+        {
+          "text": "On TD: After landing from barrel roll, the car can crash if not landed in the middle."
+        }
+      ],
+      "youtube": [
+        {
+          "url": "https://www.youtube.com/watch?v=pVn9OB7XaeI",
+          "creator": "Driver 7473",
+          "car": "Devel Sixteen (Gold)",
+          "time": "16.999",
+          "start": "1:53",
+          "end": "2:18"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=FKFf09JhUio",
+          "creator": "Driver 7473",
+          "car": "Devel Sixteen (1 Star)",
+          "time": "17.499",
+          "start": "",
+          "end": "0:25"
+        }
+      ],
       "lapTimes": {
         "td": {
           "best": "",
@@ -174,10 +278,47 @@
       "name": "Paris of the East",
       "type": "",
       "terrain": "",
-      "cars": [],
-      "shortcuts": "",
+      "cars": [
+        {
+          "profileStats": [
+            "topSpeed",
+            "accel",
+            "handling"
+          ],
+          "profileOther": "",
+          "examples": [
+            "W Motors Lykan Hypersport",
+            "Rimac Nevera Time Attack"
+          ],
+          "note": "Cars with high acceleration, mid to high top speed, and decent nitro are recommended.",
+          "credit": "Driver 8806"
+        }
+      ],
+      "shortcuts": [
+        {
+          "text": "Take the 2 barrel rolls on the very right, grab the nitro bottle by the 2nd one, and take the left route out of the city area. Use perfect nitro or shockwave on the dirt.",
+          "credit": "Driver 8806"
+        }
+      ],
       "hazards": "",
-      "youtube": [],
+      "youtube": [
+        {
+          "url": "https://www.youtube.com/watch?v=uu2lO4AZvQ8",
+          "creator": "Driver 7473",
+          "car": "EVO Lykan",
+          "time": "24.699",
+          "start": "6:46",
+          "end": "7:20"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=7dI0zwPo4hQ",
+          "creator": "Drive 7473",
+          "car": "Time Attack",
+          "time": "25.299",
+          "start": "6:39",
+          "end": "7:11"
+        }
+      ],
       "lapTimes": {
         "td": {
           "best": "",
@@ -195,10 +336,38 @@
       "name": "Double Roundabout",
       "type": "",
       "terrain": "",
-      "cars": [],
+      "cars": [
+        {
+          "profileStats": [
+            "topSpeed",
+            "accel",
+            "handling"
+          ],
+          "profileOther": "",
+          "examples": [
+            "W Motors Lykan Hypersport",
+            "Rimac Nevera Time Attack",
+            "Bugatti Chiron",
+            "Devel Sixteen",
+            "Vanda Electrics Dendrobium",
+            "Ferrari SF90 Stradale",
+            "Peugeot 9x8"
+          ],
+          "note": ""
+        }
+      ],
       "shortcuts": "",
       "hazards": "",
-      "youtube": [],
+      "youtube": [
+        {
+          "url": "https://www.youtube.com/watch?v=uu2lO4AZvQ8",
+          "creator": "Driver 7473",
+          "car": "EVO Lykan",
+          "time": "27.899",
+          "start": "6:10",
+          "end": "6:46"
+        }
+      ],
       "lapTimes": {
         "td": {
           "best": "",
@@ -213,13 +382,44 @@
     {
       "id": "2a2d500d-5003-45e7-89fe-5310487b667e",
       "region": "Rome",
-      "name": "Roman Tumbel",
+      "name": "Roman Tumble",
       "type": "",
       "terrain": "",
-      "cars": [],
-      "shortcuts": "",
+      "cars": [
+        {
+          "profileStats": [
+            "accel",
+            "handling"
+          ],
+          "profileOther": "",
+          "examples": [
+            "W Motors Lykan Hypersport",
+            "Peugeot 9x8",
+            "Ferrari SF90 Stradale"
+          ],
+          "note": ""
+        }
+      ],
+      "shortcuts": "Never go down to the left side.",
       "hazards": "",
-      "youtube": [],
+      "youtube": [
+        {
+          "url": "https://www.youtube.com/watch?v=uu2lO4AZvQ8",
+          "creator": "Drive 7473",
+          "car": "EVO Lykan",
+          "time": "17.099",
+          "start": "0:24",
+          "end": "0:50"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=QPiT6Agb3N4",
+          "creator": "synix",
+          "car": "Peugeot 9x8",
+          "time": "18.266",
+          "start": "9:54",
+          "end": "10:19"
+        }
+      ],
       "lapTimes": {
         "td": {
           "best": "",
@@ -237,10 +437,60 @@
       "name": "Roman Byroads",
       "type": "",
       "terrain": "",
-      "cars": [],
-      "shortcuts": "",
+      "cars": [
+        {
+          "profileStats": [
+            "accel",
+            "handling"
+          ],
+          "profileOther": "",
+          "examples": [
+            "Peugeot 9x8",
+            "Ferrari SF90 Stradale",
+            "Vanda Electrics Dendrobium",
+            "W Motors Lykan Hypersport"
+          ],
+          "note": ""
+        },
+        {
+          "profileStats": [],
+          "profileOther": "",
+          "examples": [
+            "Lotus Elise 220 Sprint",
+            "Pininfarina H2 Speed",
+            "Lamborghini Huracan",
+            "Peugeot 9X8",
+            "Koenigsegg Gemera"
+          ],
+          "note": "One car recommended per class for this track.",
+          "credit": "Driver 8806"
+        }
+      ],
+      "shortcuts": [
+        {
+          "text": "Take the very highest section on the hill before the finish with a shockwave, to gain airspeed.",
+          "credit": "Driver 8806"
+        }
+      ],
       "hazards": "",
-      "youtube": [],
+      "youtube": [
+        {
+          "url": "https://youtu.be/QPiT6Agb3N4",
+          "creator": "synix",
+          "car": "Peugeot 9x8",
+          "time": "19.066",
+          "start": "9:28",
+          "end": "9:51"
+        },
+        {
+          "url": "",
+          "creator": "",
+          "car": "",
+          "time": "",
+          "start": "",
+          "end": ""
+        }
+      ],
       "lapTimes": {
         "td": {
           "best": "",
@@ -258,10 +508,43 @@
       "name": "A King's Revival",
       "type": "",
       "terrain": "",
-      "cars": [],
+      "cars": [
+        {
+          "profileStats": [],
+          "profileOther": "",
+          "examples": [
+            "Bugatti Chiron",
+            "W Motors Lykan Hypersport"
+          ],
+          "note": "",
+          "credit": "TheLostKnight",
+          "evoBuilds": [
+            {
+              "car": "W Motors Lykan Hypersport",
+              "label": "Recommended Build",
+              "parts": [
+                1,
+                3,
+                3,
+                2,
+                3
+              ]
+            }
+          ]
+        }
+      ],
       "shortcuts": "",
       "hazards": "",
-      "youtube": [],
+      "youtube": [
+        {
+          "url": "https://youtu.be/uu2lO4AZvQ8",
+          "creator": "Driver 7473",
+          "car": "EVO lykan",
+          "time": "22.666",
+          "start": "2:!5",
+          "end": "2:28"
+        }
+      ],
       "lapTimes": {
         "td": {
           "best": "",
@@ -279,10 +562,43 @@
       "name": "Gezira Island",
       "type": "",
       "terrain": "",
-      "cars": [],
+      "cars": [
+        {
+          "profileStats": [
+            "accel",
+            "handling"
+          ],
+          "profileOther": "",
+          "examples": [
+            "Devel Sixteen",
+            "Ferrari SF90 Stradale",
+            "Peugeot 9x8",
+            "McLaren Senna",
+            "W Motors Lykan Hypersport"
+          ],
+          "note": ""
+        }
+      ],
       "shortcuts": "",
       "hazards": "",
-      "youtube": [],
+      "youtube": [
+        {
+          "url": "https://youtu.be/FKFf09JhUio",
+          "creator": "Driver 7473",
+          "car": "Devel Sixteen (1 star)",
+          "time": "23.366",
+          "start": "1:48",
+          "end": "2:17"
+        },
+        {
+          "url": "https://youtu.be/uu2lO4AZvQ8",
+          "creator": "Driver 7473",
+          "car": "EVO lykan",
+          "time": "21.966",
+          "start": "1:44",
+          "end": "2:12"
+        }
+      ],
       "lapTimes": {
         "td": {
           "best": "",
@@ -321,9 +637,44 @@
       "name": "Ghost Ships",
       "type": "",
       "terrain": "",
-      "cars": [],
-      "shortcuts": "",
-      "hazards": "",
+      "cars": [
+        {
+          "profileStats": [],
+          "profileOther": "",
+          "examples": [
+            "Bugatti Chiron",
+            "W Motors Lykan Hypersport"
+          ],
+          "note": "Specific EVO tuning setups for this track.",
+          "credit": "u/AsphaltLegendsGuy",
+          "evoBuilds": [
+            {
+              "car": "Bugatti Chiron",
+              "label": "Recommended Build",
+              "parts": [
+                2,
+                3,
+                3,
+                4,
+                4
+              ]
+            },
+            {
+              "car": "W Motors Lykan Hypersport",
+              "label": "Recommended Build",
+              "parts": [
+                2,
+                3,
+                4,
+                1,
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      "shortcuts": "There is a shortcut by the exit of the ship, exploitable with balanced cars. A wallride is also possible for less skilled players coming out of the ship.",
+      "hazards": "Heavier cars with good top speed, or balanced cars, are recommended depending on the route taken. It's fairly easy to flip over and wreck during the wallride with lighter cars like the Koenigsegg Jesko.",
       "youtube": [],
       "lapTimes": {
         "td": {
@@ -447,7 +798,22 @@
       "name": "Meiji Rush",
       "type": "",
       "terrain": "",
-      "cars": [],
+      "cars": [
+        {
+          "profileStats": [
+            "accel",
+            "handling"
+          ],
+          "profileOther": "",
+          "examples": [
+            "McMurtry Speirling",
+            "Ferrari SF90 Stradale",
+            "Peugeot 9x8"
+          ],
+          "note": "Recommended due to high acceleration and above-average handling.",
+          "credit": "Driver 8806"
+        }
+      ],
       "shortcuts": "",
       "hazards": "",
       "youtube": [],
@@ -465,7 +831,7 @@
     {
       "id": "872ef66c-363e-4e71-81c9-1e664f4bee76",
       "region": "New York",
-      "name": "Wall Street Life",
+      "name": "Wall Street Ride",
       "type": "",
       "terrain": "",
       "cars": [],
@@ -701,7 +1067,12 @@
       "terrain": "",
       "cars": [],
       "shortcuts": "",
-      "hazards": "",
+      "hazards": [
+        {
+          "text": "It's ideal to turn on TouchDrive for the 3rd jump pad in the river, to prevent crashing into the wall after the jumps. Manual is resumable after landing.",
+          "credit": "Driver 8806"
+        }
+      ],
       "youtube": [],
       "lapTimes": {
         "td": {
@@ -721,8 +1092,18 @@
       "type": "",
       "terrain": "",
       "cars": [],
-      "shortcuts": "",
-      "hazards": "",
+      "shortcuts": [
+        {
+          "text": "Take the barrel roll on the right, then land and take the one on the left. This allows for more airspeed. Recommended for lightweight cars and EVO cars with high air acceleration.",
+          "credit": "Driver 8806"
+        }
+      ],
+      "hazards": [
+        {
+          "text": "Never take the left to get the yellow nitro bottle unless you have poor acceleration and good handling, it's recommended to go straight.",
+          "credit": "Driver 8806"
+        }
+      ],
       "youtube": [],
       "lapTimes": {
         "td": {
@@ -762,7 +1143,21 @@
       "name": "Future Fusion",
       "type": "",
       "terrain": "",
-      "cars": [],
+      "cars": [
+        {
+          "profileStats": [
+            "accel",
+            "handling",
+            "nitro"
+          ],
+          "profileOther": "",
+          "examples": [
+            "Peugeot 9x8"
+          ],
+          "note": "Recommended due to extremely high acceleration, good handling, high nitro efficiency, and reasonable top speed. The only way to break the fan blades is Shockwave or 360, which high nitro and handling supports.",
+          "credit": "Driver 8806"
+        }
+      ],
       "shortcuts": "",
       "hazards": "",
       "youtube": [],
@@ -783,7 +1178,30 @@
       "name": "Rocketing to the Future",
       "type": "",
       "terrain": "",
-      "cars": [],
+      "cars": [
+        {
+          "profileStats": [],
+          "profileOther": "",
+          "examples": [
+            "Bugatti Chiron"
+          ],
+          "note": "Specific EVO tuning setup for this track.",
+          "credit": "u/AsphaltLegendsGuy",
+          "evoBuilds": [
+            {
+              "car": "Bugatti Chiron",
+              "label": "Recommended Build",
+              "parts": [
+                1,
+                2,
+                2,
+                4,
+                4
+              ]
+            }
+          ]
+        }
+      ],
       "shortcuts": "",
       "hazards": "",
       "youtube": [],
@@ -825,9 +1243,33 @@
       "name": "Waterslide Whirl",
       "type": "",
       "terrain": "",
-      "cars": [],
-      "shortcuts": "",
-      "hazards": "",
+      "cars": [
+        {
+          "profileStats": [],
+          "profileOther": "",
+          "examples": [
+            "Peugeot 9X8",
+            "Porsche 919 Street",
+            "Rimac Nevera",
+            "Pininfarina B95",
+            "W Motors Lykan Hypersport"
+          ],
+          "note": "Lykan Hypersport tune: Titanium Engine, Heavyweight DT, Longshot: Universal, Drift Nitro Intake, Semi-slick Tire.",
+          "credit": "Driver 8806"
+        }
+      ],
+      "shortcuts": [
+        {
+          "text": "Take the right route on the beach by the finish, and wallride there.",
+          "credit": "Driver 8806"
+        }
+      ],
+      "hazards": [
+        {
+          "text": "Never take left routes on this track, they are all much slower.",
+          "credit": "Driver 8806"
+        }
+      ],
       "youtube": [],
       "lapTimes": {
         "td": {
